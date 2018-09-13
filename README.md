@@ -5,7 +5,7 @@
 ## 主要技術
 
 ```
-Node.JS, PostgreSQL, Angular2, 
+Node.JS, PostgreSQL, Angular2
 ```
 
 ## 網站重要功能介紹
